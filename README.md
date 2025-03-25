@@ -17,8 +17,5 @@ Data Files: Raw data files are provided, enabling others to replicate the analys
 
 Reports: Generated visualizations resulting from the analysis are included.
 
-## ER Diagram
-![ER Diagram](https://github.com/MananDesai1783/Sprocket-Data-Analysis-SQL/main/Images/ER_DIAGRAM.png)
-
 ## Report
 The report includes code for the creation of the table, cleaning of the table, answers to different analysis questions, and finally, visualizations created using Tableau.
